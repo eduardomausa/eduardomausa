@@ -12,11 +12,12 @@
 
 
 ## 🛠️ Tech Stack
-- **Frontend:** React Native, Swift, React, Next.js, TypeScript, Redux, XState, MobX, Tailwind, Styled Components
-- **Backend:**  Node.js, Express, GraphQL, Firebase, REST APIs, Microservices, SOLID, DDD, Postgres, DynamoDB  
+- **Frontend:** React, Next.js, React Native, TypeScript, Redux, XState, MobX, Tailwind, Styled Components
+- **Backend:**  Node.js, Express, GraphQL, Firebase, REST APIs, Microservices, SOLID, DDD, Postgres, DynamoDB
+- **Cloud:** AWS, Lambda, SQS, SNS, EventBridge, DynamoDB, API Gateway
 - **Testing:** Jest, React Testing Library, Playwright  
 - **Tools:** Communication, Collaboration, Teamwork, Detail-oriented, Ownership
-- **Other Interests:** Python, Machine Learning, AI
+- **Other Interests:** Microservices, Event-driven Architecture, Machine Learning, AI
 
 ## Find more about me
 - 🌐 [Website](https://www.eduardomausa.com/)  
