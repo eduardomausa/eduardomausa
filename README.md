@@ -1,6 +1,6 @@
 ## Hi there, I'm Eduardo 👋
 
-💻 **Full Stack Developer | React | React Native | Node.js | TypeScript**  
+💻 **Senior Full Stack AI Engineer | Node.js | React | React Native | TypeScript**  
 📍 Based in Florianópolis, Brazil
 
 ## 🚀 About Me
