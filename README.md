@@ -20,5 +20,4 @@
 - **Other Interests:** Microservices, Event-driven Architecture, Machine Learning, AI
 
 ## Find more about me
-- 🌐 [Website](https://www.eduardomausa.com/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-mausa/)  
