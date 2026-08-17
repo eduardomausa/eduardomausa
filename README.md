@@ -1,6 +1,6 @@
 ## Hi there, I'm Eduardo 👋
 
-💻 **Senior Full Stack AI Engineer | Node.js | React | React Native | TypeScript**  
+💻 **Senior Full Stack Engineer | Node.js | React Native | React | TypeScript**  
 📍 Based in Florianópolis, Brazil
 
 ## 🚀 About Me
@@ -16,7 +16,6 @@
 - **Backend:**  Node.js, Express, GraphQL, Firebase, REST APIs, Microservices, SOLID, DDD, Postgres, DynamoDB
 - **Cloud:** AWS, Lambda, SQS, SNS, EventBridge, DynamoDB, API Gateway
 - **Testing:** Jest, React Testing Library, Playwright  
-- **Tools:** Communication, Collaboration, Teamwork, Detail-oriented, Ownership
 - **Other Interests:** Microservices, Event-driven Architecture, Machine Learning, AI
 
 ## Find more about me
